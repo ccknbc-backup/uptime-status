@@ -19,7 +19,6 @@ window.Config = {
     'm787423306-765eaeddc256471203fe8e56',
     'm787423310-70c5abfd189f39faff9ceb79',
     'm787423316-372026938992a9bd73c55a04',
-    'm787438950-67c59aa5538de620eecfa36e',
   ],
 
   // 是否显示监测站点的链接
@@ -41,8 +40,12 @@ window.Config = {
       url: 'https://blog.ccknbc.cc'
     },
     {
-      text: '监控详情',
+      text: '状态',
       url: 'https://status.ccknbc.cc'
+    },
+    {
+      text: '事件',
+      url: 'https://ccknbc.statuspage.io'
     }
   ]
 };
