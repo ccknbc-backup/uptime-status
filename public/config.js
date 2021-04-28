@@ -41,7 +41,7 @@ window.Config = {
     },
     {
       text: '状态',
-      url: 'https://status.ccknbc.cc'
+      url: 'https://stats.uptimerobot.com/Wop33SjO6Z'
     },
     {
       text: '事件',
