@@ -31,14 +31,14 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
-      text: '主页',
-      url: 'https://www.ccknbc.cc'
-    },
-    {
-      text: '博客',
-      url: 'https://blog.ccknbc.cc'
-    },
+//     {
+//       text: '主页',
+//       url: 'https://www.ccknbc.cc'
+//     },
+//     {
+//       text: '博客',
+//       url: 'https://blog.ccknbc.cc'
+//     },
     {
       text: '状态',
       url: 'https://stats.uptimerobot.com/Wop33SjO6Z'
