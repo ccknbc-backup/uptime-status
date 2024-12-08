@@ -3,7 +3,7 @@
   "version": "1.5.1",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.7.8",
     "dayjs": "^1.10.4",
     "htmr": "^0.9.2",
     "react": "^17.0.1",
